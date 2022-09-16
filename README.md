@@ -1,7 +1,7 @@
 # pokedexPaginaWeb
 
 Aplicação web que simula uma pokedex feita com HTML, CSS e JavaScript. 
-Alterei a estrutura, posicionamentos e elementos da pagina para poder praticar.
+Realizei algumas alterações na estrutura, posicionamentos e elementos da pagina.
 
 Pude trabalhar bastante com javascript (requisições e eventos), o que tornou o projeto muito enriquecedor para meu aprendizado.
 
