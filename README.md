@@ -6,7 +6,7 @@ Adaptei o projeto para minha visão e mudei certos aspectos que achei necessári
 Pude trabalhar bastante com javascript (requisições e eventos), o que tornou o projeto muito enriquecedor para meu aprendizado.
 
 
-### link do projeto upado no git: https://viniciuscmnz.github.io/pokedexPaginaWeb/
+### link de acesso a aplicação: https://viniciuscmnz.github.io/pokedexPaginaWeb/
 
 
 
