@@ -1,0 +1,170 @@
+/*import de fontes*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
+
+
+
+
+/*Reset*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oxanium', cursive;
+}
+
+
+
+
+
+
+
+/*Fundo com gratiente azul*/
+body{
+  text-align: center;
+  background: linear-gradient(to bottom, #6ab7f5, #fff);
+  min-height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+/*Imagem pokedex*/
+main{
+
+  display: inline-block;
+  margin-top: 2%;
+  padding: 20px;
+  position: relative;
+}
+
+.pokedex {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Imagem pokemon*/
+.pokemon-image {
+  position: absolute;
+  bottom: 55%;
+  left: 50%;
+  transform: translate(-63%, 20%);
+  height: 18%;
+}
+
+
+
+
+
+
+
+
+
+/*Dados do pokemon*/
+.pokemon-data{
+  position: absolute;
+  font-weight: 600;
+  color: #aaa;
+  top: 54.5%;
+  right: 27%;
+  font-size: clamp(8px, 5vw, 25px);
+}
+
+.pokemon-name{
+  color: #3a444d;
+  text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+/*Formulario*/
+.form{
+  position: absolute;
+  width: 65%;
+  top: 63%;
+  left: 13.5%;
+}
+
+.input-search{
+  width: 100%;
+  padding: 4%;
+  outline: none;
+  border: 2px solid #333;
+  border-radius: 10px 20px 20px 30px;
+  font-weight: 600;
+  color: #3a444d;
+  font-size: clamp(8px, 5vw, 1rem);
+  box-shadow: -2px 3px 0 rgb(110, 107, 107), -5px 7px 0 #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*botões*/
+.buttons{
+  position: absolute;
+  bottom: 11.5%;
+  left: 94%;
+  width: 600px;
+  transform: translate(-57%, 0);
+  display: flex;
+  gap: 10px;
+  padding: 15%;
+
+  
+}
+
+.button{
+  width: 20%;
+  height: 100%;
+  border: 2px solid #000;
+  font-size: clamp(8px, 5vw, 1rem);
+  box-shadow: -1px 1px 0 rgb(0, 0, 0), -2px 3px 0 rgb(0, 0, 0);
+  border-radius: 20px 20px 20px 20px;
+  padding: 2%;
+  font-weight: 600;
+  color: white;
+  background-color: #3a444d;
+  
+    
+}
+
+
+
+.button:active:hover{
+  box-shadow: inset -4px 4px 0 #222;
+  font-size: 0.9rem;
+  transition: all ease 0.1s;
+  background-color: #222;
+}
