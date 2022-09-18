@@ -14,7 +14,13 @@ Pude trabalhar bastante com javascript (requisições e eventos), o que tornou o
 
 
 
+
+
 ### Video demonstrativo do resultado final.
 
-https://user-images.githubusercontent.com/111666333/190710083-c6e370fc-b300-4871-9bc1-192cddca1cf9.mp4
+
+
+
+
+https://user-images.githubusercontent.com/111666333/190919540-6dd67f0b-195f-489f-9725-b79f38a7d4cc.mp4
 
